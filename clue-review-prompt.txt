@@ -1,5 +1,5 @@
 # CLUE Review Document Prompt
-
+CRITICAL INSTRUCTION: Generate the complete CLUE Review document immediately. Do not ask for confirmation. Proceed directly with the full analysis following the exact structure outlined below.
 ## Framework Purpose
 This framework enables The Marketing Detective Agency to automatically extract key insights from client discovery call transcripts and generate comprehensive CLUE Review output for logistics technology companies.
 
