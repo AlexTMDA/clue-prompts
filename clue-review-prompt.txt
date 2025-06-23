@@ -237,64 +237,43 @@ The Research & Thought Leadership model positions your company as an industry ex
 ## Output Format Requirements
 
 ### MANDATORY DOCUMENT STRUCTURE
-**CRITICAL: Every CLUE Review document MUST follow this EXACT structure and format for seamless integration into branded templates. NO deviations allowed.**
+**CRITICAL: Generate ONLY the USP section. Focus exclusively on this analysis.**
 
-**Document Title:** [COMPANY NAME] CLUE Review - Strategic Findings & Revenue Directive
-
-**Executive Summary**
-- [Company Name] Overview and Current Position Analysis
-- Performance Gap Analysis with Revenue Opportunity Quantification
-- Key Strategic Findings and Transformation Opportunities
-- [Detailed bullet points as specified in template]
-
-**Detailed CLUE Analysis**
-
-**Performance Gap Analysis with Opportunity Cost Calculation**
-- Current Performance Reality
-- Required Performance for Goals  
-- The [Amount]+ Opportunity Cost
-- Mathematical Value Creation Potential
-
-**C - Customer Analysis**
-- Detailed ICP Operational Pain Points Across All 3 Layers
-- Primary ICP Profile
-- Layer 1 - Surface Pains (Rational Business Justifications) [5 bullet points]
-- Layer 2 - Emotional Pains (Personal/Professional Stress) [6 bullet points]
-- Layer 3 - Hidden Pains (Career Fears and Insecurities) [7 bullet points]
-- Value Creation Opportunity Through Deep ICP Understanding
-- Technology Evaluation Processes and Decision Criteria
-- Stakeholder Complexity in Enterprise Buying Decisions
-- ROI Requirements and Budget Approval Processes
-
-**L - Landscape Assessment**
-- Competitive Positioning Within [Industry] Sector
-- Market Trends Affecting [Target Audience] [5 bullet points]
-- Differentiation Opportunities in Crowded [Industry] Space
-- Unique Competitive Advantages [5 numbered points]
-- Competitive Advantage Through Deep ICP Understanding
-- Industry Transformation Challenges and Technology Adoption Patterns
-- Authority Building Opportunities [4 bullet points]
+**Document Title:** [COMPANY NAME] USP Analysis & Strategic Messaging
 
 **U - Unique Selling Proposition (USP) Evaluation & Creation**
-- Current USP Assessment
-- Existing Positioning
-- Problems with Current Approach [5 bullet points]
-- New/Revised Value Proposition Using Value Equation Framework
-- Comprehensive Value Proposition
-- Value Equation Component Integration
-- 5 Key Messages Using Psychological Value Triggers
 
-**E - Experience Snapshot & Acquisition Model Recommendation**
-- Current Experience Evaluation
-- Prospect Journey Assessment
-- Touchpoint Effectiveness Gaps [5 bullet points]
-- Multi-Stakeholder Engagement Optimization Opportunities
-- Acquisition Model Recommendation: [Recommended Model Name]
-- Why This Model is Optimal for [Company]
-- What This Model Is
-- How It Works [6 numbered steps]
+**Current USP Assessment:**
+- Existing Positioning Analysis
+- Problems with Current Approach [3-5 bullet points]
 
-**Conclusion: The Strategic Imperative for Immediate Action**
+**New/Revised Value Proposition Using Value Equation Framework:**
+- Dream Outcome maximization with status elevation focus
+- Perceived Likelihood amplification through social proof and risk reversal
+- Time Delay minimization with immediate value delivery mechanisms
+- Effort & Sacrifice reduction through friction elimination
+- Complete integrated value proposition combining all four elements
+
+**5 Key Messages Using Psychological Value Triggers:**
+
+**Message 1 - Dream Outcome + Status Elevation:**
+[Complete message focused on identity transformation and status]
+
+**Message 2 - Likelihood + Social Proof Authority:**
+[Complete message with volume metrics and prestigious customer validation]
+
+**Message 3 - Time Delay Elimination + Quick Wins:**
+[Complete message emphasizing immediate gratification vs. competitor delays]
+
+**Message 4 - Effort Reduction + Friction Elimination:**
+[Complete message removing customer effort and sacrifice perception]
+
+**Message 5 - Risk Mitigation + Career Protection:**
+[Complete message addressing hidden fears and career advancement]
+
+**Strategic Implementation Priority:**
+- Which message to lead with and why
+- How to integrate across sales and marketing touchpoints
 
 **FORMATTING REQUIREMENTS:**
 - Use the exact headings and subheadings as shown above
@@ -309,18 +288,12 @@ The Research & Thought Leadership model positions your company as an industry ex
 - [ ] All 3 pain point layers identified and addressed with deep psychological insight
 - [ ] Value proposition uses Value Equation framework for maximum psychological impact and includes technical solution vehicle
 - [ ] Key messages integrate psychological triggers and address personal stakes beyond business metrics
-- [ ] Acquisition model recommendation includes clear explanation of what it is and how it works
 - [ ] Output provides overwhelming strategic value that justifies £1,500 investment through actionable insights
 - [ ] Content demonstrates deep market understanding and strategic expertise without any sales positioning
-- [ ] Document creates natural "can you do this for us?" response through value delivery combined with complexity demonstration
 - [ ] All cost references removed from document
 
 ## Success Metrics
-The framework should produce output that:
-1. **Delivers Overwhelming Strategic Value**: Provides insights and frameworks worth significantly more than investment
-2. **Creates "Holy Shit" Moments**: Deep understanding of [Company Name]'s hidden challenges and market positioning gaps
-3. **Demonstrates Clear Revenue Pathway**: Mathematical connection between improved positioning and revenue growth
-4. **Provides Immediate Actionable Insights**: Gives them tools they could theoretically use to transform their business
-5. **Establishes Market Transformation Potential**: Shows pathway to premium positioning and larger deal sizes
-6. **Creates Natural Progression**: Leads to "this is brilliant, but can you implement it for us?" conversation
-7. **Positions Strategic Foundation**: Provides complete framework for business transformation that showcases expertise and value
+The framework should produce USP output that:
+1. **Delivers Powerful Positioning**: Clear differentiation from competitors
+2. **Creates Compelling Messages**: 5 messages that address psychological triggers
+3. **Provides Implementation Guidance**: Practical next steps for messaging
