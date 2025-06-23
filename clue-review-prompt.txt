@@ -1,210 +1,38 @@
-# CLUE Review Document Prompt
-CRITICAL INSTRUCTION: Generate ONLY the USP analysis section immediately. Focus exclusively on Unique Selling Proposition evaluation and 5 key messages using the complete Value Equation framework. Do not generate any other sections.
+# Value Proposition Generator Using Value Equation Framework
 
-## Client Profile Context
-- **Target Industry**: Logistics technology, supply chain software, warehouse management systems, fleet management tech, logistics platforms
-- **Company Size**: 20-200 employees, £2M-£50M revenue
-- **Business Model**: B2B SaaS, enterprise software licensing, tech-enabled logistics services
-- **Target Customers**: Enterprise logistics companies, 3PLs, major retailers, manufacturers with complex supply chains
-- **Deal Size**: £50K-£500K+ annual contracts
+Generate ONLY a value proposition analysis for this logistics technology company using the Value Equation framework.
 
-## Alex Hormozi's Value Equation Framework (Complete)
+## Value Equation Framework
+**Formula:** Value = (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort & Sacrifice)
 
-### The Mathematical Formula
-**Value = (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort & Sacrifice)**
+**Key Principles:**
+- **Dream Outcome**: Identity transformation, status elevation, "sell the vacation not the plane ticket"
+- **Perceived Likelihood**: Social proof, track record, guarantees, risk reversal
+- **Time Delay**: Immediate value delivery, quick wins vs. competitor delays (minimize to zero)
+- **Effort & Sacrifice**: Remove friction, done-for-you positioning, eliminate barriers (minimize to zero)
 
-**Critical Insight**: This is a division equation because "if you can make the bottom part equal to zero, you're golden. No matter how small the top side is, anything divided by zero equals infinity."
+**Strategy**: Focus on "bottom-heavy" approach - prioritize reducing Time Delay and Effort over making bigger promises.
 
-### The Four Components (Detailed)
+## 3-Layer Pain Framework
+- **Layer 1 (Surface)**: Rational business justifications, budget-approved problems
+- **Layer 2 (Emotional)**: Personal stress, reputation concerns, career impact
+- **Layer 3 (Hidden)**: Career fears, job security, competency insecurities
 
-#### Dream Outcome (Numerator - Goal: Maximize)
-**Definition**: "The expression of the feelings and experiences the prospect has envisioned in their mind; the gap between their current reality and their dreams."
+**Value Creation**: Addressing Layer 2+3 pains enables premium positioning and 5-10x higher response rates.
 
-**Key Principles**:
-- Channel customer desires back to them so they feel understood
-- Focus on status elevation (being seen as beautiful, powerful, respected, loved)
-- Sell the vacation rather than the plane ticket
-- Target identity transformation and social recognition
+## Target Context
+Logistics technology, B2B SaaS, £50K-£500K deals, enterprise logistics companies (3PLs, retailers, manufacturers).
 
-**For Logistics Technology**:
-- Transform from reactive firefighter to strategic logistics leader
-- Become the operations manager that leadership recognizes as innovative
-- Achieve industry recognition as logistics optimization expert
-- Gain respect from peers as the person who "solved" complex supply chain challenges
+## Output Required
 
-#### Perceived Likelihood of Achievement (Numerator - Goal: Maximize)
-**Definition**: Customer confidence that the solution will actually work for them.
+**Existing Value Proposition:**
+[Current positioning and key messaging from transcript]
 
-**Hormozi's Principle**: "People pay for certainty" - like choosing a surgeon with 10,000 surgeries vs. 10 surgeries.
+**Issues with Existing Value Proposition:**
+[4-5 specific problems analyzed against Value Equation components]
 
-**Enhancement Methods**:
-- Social proof and testimonials from similar logistics companies
-- Specific case studies with quantified results
-- Guarantees and risk reversal strategies
-- Track record evidence and credentials
-- Success rate statistics
-- "Radical honesty" - acknowledge limitations while emphasizing strengths
+**New Value Proposition Using Value Equation:**
+[Strategic positioning maximizing Dream Outcome + Perceived Likelihood while minimizing Time Delay + Effort & Sacrifice, addressing Layer 2+3 pains for logistics leaders]
 
-#### Time Delay (Denominator - Goal: Minimize to Zero)
-**Definition**: "The time between a client buying and receiving the promised benefit."
-
-**Hormozi's Insight**: This is "harder and more competitive" to optimize but where sophisticated companies focus efforts.
-
-**Strategic Focus**:
-- Immediate value delivery and quick wins
-- Make delivery "immediate, seamless, and effortless"
-- Show results within days/weeks vs. competitor months/years
-- Demonstrate value before full implementation completes
-
-#### Effort & Sacrifice (Denominator - Goal: Minimize to Zero)
-**Definition**: All perceived effort, mental work, physical work, or sacrifices required from customers.
-
-**Strategic Focus**:
-- Remove friction from entire customer journey
-- Done-for-you vs. do-it-yourself positioning
-- Eliminate barriers and make experience effortless
-- Address both effort to use product AND sacrifices customers must make
-
-### The "Bottom-Heavy" Strategy
-**Hormozi's Key Insight**: "In the beginning of my career, I focused all my attention on dream outcomes and social proof. That's where beginner marketers make bigger and bigger claims. It's easy, and it's lazy. The harder, and more competitive, are the Time Delay and Effort & Sacrifice. The best companies in the world focus all their attention on the bottom side of the equation."
-
-**Implementation Priority**:
-1. **First Priority**: Reduce time delay - deliver results faster
-2. **Second Priority**: Minimize effort and sacrifice - make processes easier
-3. **Third Priority**: Increase perceived likelihood through proof mechanisms
-4. **Fourth Priority**: Refine dream outcome messaging
-
-### Value-Based Pricing Psychology
-**Hormozi's Principle**: "Make your service clearly worth $600 and charge $50" rather than selling a "crappy Honda for slightly above market."
-
-**The Goal**: Create significant gap between perceived value and price - the bigger the gap, the easier the sale.
-
-## 3-Layer Pain Point Framework for Enhanced Value Creation
-
-### Layer 1 - Surface Pains (What They Say)
-- Rational, business-justified problems they'll put in RFP
-- Safe, logical, budget-approved challenges
-- **Limitation**: Everyone is solving Layer 1 pains = commoditized competition
-
-### Layer 2 - Emotional Pains (What They Feel)
-- Personal/professional stress and overwhelm
-- Reputation concerns and support inadequacy
-- Career impact fears
-- **Example**: "If this implementation fails, it's my reputation on the line"
-
-### Layer 3 - Hidden Pains (What They Won't Admit)
-- Career fears and insecurities
-- Political complexities and job security concerns
-- **Example**: "I'm afraid of being blamed if this doesn't work"
-
-### Value Creation Through All 3 Layers
-**Understanding All 3 Layers Creates Exponential Business Growth**:
-- **Earlier Engagement** = Higher Win Rates (enter 6-12 months before competitors)
-- **Remove Competitive Noise** through differentiation (blue ocean positioning)
-- **Exponential Value Creation** using complete Value Equation
-- **Result**: 5-10x higher response rates, premium positioning, larger deal sizes
-
-## Advanced Messaging Psychology
-
-### Customer Psychology Principles
-- **Loss Aversion**: Minimizing effort/sacrifice leverages stronger response to potential losses
-- **Anchoring Effects**: Establishing high-value dream outcomes sets favorable reference points
-- **Temporal Discounting**: Reducing time delay addresses preference for immediate gratification
-- **Social Proof Psychology**: Building confidence and reducing decision anxiety
-
-### Strategic Messaging Framework
-**Outcome-Focused Messaging**: Sell the end result rather than features or process
-**Trust Acceleration**: Use "radical honesty" - acknowledge weaknesses to build credibility for strengths
-**Decision Simplification**: Reduce cognitive load by minimizing choices and friction
-**Social Proof Hierarchy**: Volume metrics > prestigious customers > testimonials/reviews
-
-## 5 Key Messages Framework (Enhanced with Full Psychology)
-
-**Message 1 - Dream Outcome + Status Elevation:**
-"Transform from [current frustrating state] to [elevated status position] through [technical solution] - become the [industry role] that [leadership/peers] recognize as [specific achievement/innovation]"
-- Focus on identity transformation and social status
-- Emphasize recognition and respect from important stakeholders
-- Sell the "vacation" (outcome) not the "plane ticket" (features)
-- Channel their envisioned feelings and experiences back to them
-
-**Message 2 - Likelihood + Social Proof Authority:**
-"Join [specific number] of [prestigious customer type] who have achieved [quantified results] through [technical solution] including [name-drop case studies] - our [specific methodology/system] delivers [specific outcome] with [success rate/guarantee]"
-- Volume metrics combined with prestigious customer validation
-- Specific proof mechanisms and track record evidence
-- Risk reversal through guarantees or success stories
-- Address the "surgeon with 10,000 surgeries" principle
-
-**Message 3 - Time Delay Elimination + Quick Wins:**
-"Stop waiting [time period] for results - see [specific outcome] within [short timeframe] through our [immediate delivery mechanism/technical solution] while your competitors are still [slow traditional approach]"
-- Immediate gratification vs. competitor delays
-- Specific timeline commitments with early milestone achievements
-- Urgency through competitive advantage timing
-- Focus on "immediate, seamless, and effortless" delivery
-
-**Message 4 - Effort Reduction + Friction Elimination:**
-"Skip the [complex/difficult process] - our [technical solution] handles [all technical/complex elements] so you can focus on [easy high-value activity] without [sacrifice/difficulty] while still achieving [full outcome]"
-- Remove customer effort and sacrifice perception
-- Done-for-you vs. do-it-yourself positioning
-- Eliminate barriers and friction points
-- Address both usage effort AND required sacrifices
-
-**Message 5 - Risk Mitigation + Career Protection (Layer 3 Pain):**
-"Avoid the career-damaging risks of [failed approach/common mistakes] - our [technical solution/risk mitigation system] ensures [positive career outcome] while protecting [professional reputation/advancement] through [specific protection mechanisms]"
-- Address hidden fears and insecurities directly
-- Career advancement and protection focus
-- Personal stakes vs. just business outcomes
-- Target Layer 3 pains for premium pricing justification
-
-## Output Format Requirements
-
-**Document Title:** [COMPANY NAME] Value Equation USP Analysis & Strategic Messaging
-
-**U - Unique Selling Proposition (USP) Evaluation & Creation**
-
-**Current USP Assessment:**
-- Existing Positioning Analysis
-- Problems with Current Approach [analyze against Value Equation components]
-- Value Equation Component Gaps [identify which elements are missing/weak]
-
-**New/Revised Value Proposition Using Complete Value Equation Framework:**
-- **Dream Outcome Maximization**: [Specific identity transformation and status elevation for logistics leaders]
-- **Perceived Likelihood Amplification**: [Social proof, guarantees, track record for logistics industry]
-- **Time Delay Minimization**: [Immediate value delivery mechanisms specific to logistics operations]
-- **Effort & Sacrifice Reduction**: [Complete friction elimination in implementation and usage]
-- **Mathematical Value Creation**: [Show how formula creates exponential value vs. competitors]
-- **Bottom-Heavy Strategy Focus**: [Prioritize time delay and effort reduction over promises]
-
-**5 Key Messages Using Complete Psychological Value Triggers:**
-
-**Message 1 - Dream Outcome + Status Elevation:**
-[Complete message focused on logistics leader identity transformation and industry recognition]
-
-**Message 2 - Likelihood + Social Proof Authority:**
-[Complete message with logistics industry volume metrics, prestigious customer validation, and risk reversal]
-
-**Message 3 - Time Delay Elimination + Quick Wins:**
-[Complete message emphasizing immediate logistics results vs. competitor implementation delays]
-
-**Message 4 - Effort Reduction + Friction Elimination:**
-[Complete message removing all implementation and usage friction for logistics operations]
-
-**Message 5 - Risk Mitigation + Career Protection:**
-[Complete message addressing logistics leader career fears and advancement protection]
-
-**Value Gap Strategy:**
-- Perceived value calculation for each message
-- Price vs. value positioning
-- "Make it worth $600, charge $50" approach for logistics market
-
-**Strategic Implementation Priority:**
-- Which message leads (based on bottom-heavy strategy)
-- Layer 2 and Layer 3 pain integration across touchpoints
-- Premium positioning through complete problem solving
-
-## Success Metrics
-The framework should produce USP output that:
-1. **Creates Infinite Value Perception**: Uses division equation to maximize perceived value
-2. **Implements Bottom-Heavy Strategy**: Prioritizes time delay and effort reduction
-3. **Addresses All 3 Pain Layers**: Enables premium positioning and larger deal sizes
-4. **Demonstrates Mathematical Value Creation**: Shows clear pathway to exponential results
-5. **Provides Complete Psychological Framework**: All 5 messages target specific behavioral triggers
+**Why New Value Proposition is Better:**
+[4-5 reasons showing Value Equation improvements and competitive advantages]
