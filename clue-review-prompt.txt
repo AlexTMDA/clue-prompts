@@ -27,12 +27,6 @@ Generate ONLY a comprehensive USP analysis for this logistics technology company
 - Sell the vacation rather than the plane ticket
 - Target identity transformation and social recognition
 
-**For Logistics Technology**:
-- Transform from reactive firefighter to strategic logistics leader
-- Become the operations manager that leadership recognizes as innovative
-- Achieve industry recognition as logistics optimization expert
-- Gain respect from peers as the person who "solved" complex supply chain challenges
-
 #### Perceived Likelihood of Achievement (Numerator - Goal: Maximize)
 **Definition**: Customer confidence that the solution will actually work for them.
 
@@ -43,8 +37,6 @@ Generate ONLY a comprehensive USP analysis for this logistics technology company
 - Specific case studies with quantified results
 - Guarantees and risk reversal strategies
 - Track record evidence and credentials
-- Success rate statistics
-- "Radical honesty" - acknowledge limitations while emphasizing strengths
 
 #### Time Delay (Denominator - Goal: Minimize to Zero)
 **Definition**: "The time between a client buying and receiving the promised benefit."
@@ -53,9 +45,7 @@ Generate ONLY a comprehensive USP analysis for this logistics technology company
 
 **Strategic Focus**:
 - Immediate value delivery and quick wins
-- Make delivery "immediate, seamless, and effortless"
 - Show results within days/weeks vs. competitor months/years
-- Demonstrate value before full implementation completes
 
 #### Effort & Sacrifice (Denominator - Goal: Minimize to Zero)
 **Definition**: All perceived effort, mental work, physical work, or sacrifices required from customers.
@@ -64,7 +54,6 @@ Generate ONLY a comprehensive USP analysis for this logistics technology company
 - Remove friction from entire customer journey
 - Done-for-you vs. do-it-yourself positioning
 - Eliminate barriers and make experience effortless
-- Address both effort to use product AND sacrifices customers must make
 
 ### The "Bottom-Heavy" Strategy
 **Hormozi's Key Insight**: "The best companies in the world focus all their attention on the bottom side of the equation."
@@ -75,127 +64,89 @@ Generate ONLY a comprehensive USP analysis for this logistics technology company
 3. **Third Priority**: Increase perceived likelihood through proof mechanisms
 4. **Fourth Priority**: Refine dream outcome messaging
 
-### Value-Based Pricing Psychology
-**Hormozi's Principle**: "Make your service clearly worth $600 and charge $50" rather than selling a "crappy Honda for slightly above market."
-
-**The Goal**: Create significant gap between perceived value and price - the bigger the gap, the easier the sale.
-
 ## 3-Layer Pain Point Framework for Enhanced Value Creation
 
 ### Layer 1 - Surface Pains (What They Say)
 - Rational, business-justified problems they'll put in RFP
 - Safe, logical, budget-approved challenges
-- **Limitation**: Everyone is solving Layer 1 pains = commoditized competition
 
 ### Layer 2 - Emotional Pains (What They Feel)
 - Personal/professional stress and overwhelm
 - Reputation concerns and support inadequacy
 - Career impact fears
-- **Example**: "If this implementation fails, it's my reputation on the line"
 
 ### Layer 3 - Hidden Pains (What They Won't Admit)
 - Career fears and insecurities
 - Political complexities and job security concerns
-- **Example**: "I'm afraid of being blamed if this doesn't work"
 
-### Value Creation Through All 3 Layers
-**Understanding All 3 Layers Creates Exponential Business Growth**:
-- **Earlier Engagement** = Higher Win Rates (enter 6-12 months before competitors)
-- **Remove Competitive Noise** through differentiation (blue ocean positioning)
-- **Exponential Value Creation** using complete Value Equation
-- **Result**: 5-10x higher response rates, premium positioning, larger deal sizes
+**Value Creation**: Understanding all 3 layers enables 5-10x higher response rates, premium positioning, and larger deal sizes.
 
-## CRITICAL: Extract ICP Pain Layers from Transcript
+## CRITICAL ANALYSIS REQUIREMENTS
 
-**BEFORE creating the value proposition, analyze the transcript to identify:**
+**BEFORE creating the value proposition, extract from the transcript:**
 
-### Layer 1 - Surface Pains (From Transcript)
-Extract the rational business problems mentioned:
-- What specific operational challenges do they describe?
-- What budget-approved problems do they mention?
-- What RFP-level pain points come up in responses?
+### Specific Pain Points by Layer:
+- **Layer 1 (Surface)**: Specific operational challenges, budget-approved problems, RFP-level pain points mentioned
+- **Layer 2 (Emotional)**: Career pressures, reputation concerns, stress points revealed
+- **Layer 3 (Hidden)**: Career risks, job security concerns, competency fears implied
 
-### Layer 2 - Emotional Pains (From Transcript)  
-Identify personal/professional stress indicators:
-- What career pressures or reputation concerns are mentioned?
-- What stress points about decision-making appear?
-- What personal impact fears are revealed?
+### Current Positioning Analysis:
+- Extract their exact current value proposition and messaging
+- Identify specific problems with their current approach using Value Equation components
 
-### Layer 3 - Hidden Pains (From Transcript)
-Uncover the deeper fears and insecurities:
-- What career risks or job security concerns are implied?
-- What competency fears surface in their responses?
-- What political or advancement anxieties are suggested?
+## MANDATORY OUTPUT STRUCTURE
 
-## Advanced Messaging Psychology
-
-### Customer Psychology Principles
-- **Loss Aversion**: Minimizing effort/sacrifice leverages stronger response to potential losses
-- **Anchoring Effects**: Establishing high-value dream outcomes sets favorable reference points
-- **Temporal Discounting**: Reducing time delay addresses preference for immediate gratification
-- **Social Proof Psychology**: Building confidence and reducing decision anxiety
-
-### Strategic Messaging Framework
-- **Outcome-Focused Messaging**: Sell the end result rather than features or process
-- **Trust Acceleration**: Use "radical honesty" - acknowledge weaknesses to build credibility for strengths
-- **Decision Simplification**: Reduce cognitive load by minimizing choices and friction
-- **Social Proof Hierarchy**: Volume metrics > prestigious customers > testimonials/reviews
-
-## Output Required
-
-**Document Title:** [COMPANY NAME] Value Equation USP Analysis & Strategic Messaging
+**Document Title:** [COMPANY NAME] USP Analysis & Strategic Messaging
 
 **U - Unique Selling Proposition (USP) Evaluation & Creation**
 
-**Current USP Assessment:**
-- Existing Positioning Analysis [from transcript]
-- Problems with Current Approach [analyze against Value Equation components using transcript insights]
-- Value Equation Component Gaps [identify which elements are missing/weak based on transcript]
+**Current USP Assessment**
 
-**ICP Pain Layer Analysis (From Transcript):**
-- **Layer 1 (Surface Pains)**: [Specific rational business problems mentioned in transcript - 3-4 points]
-- **Layer 2 (Emotional Pains)**: [Specific stress/reputation concerns revealed in transcript - 3-4 points]
-- **Layer 3 (Hidden Pains)**: [Specific career fears/insecurities implied in transcript - 3-4 points]
+**Existing Positioning**
+[Single paragraph describing their current value proposition and key messaging from transcript]
 
-**New/Revised Value Proposition Using Complete Value Equation Framework:**
+**Problems with Current Approach**
+[Exactly 5 bullet points analyzing problems against Value Equation components]
+• [Problem 1 - specific issue with current positioning]
+• [Problem 2 - specific gap in Value Equation optimization]  
+• [Problem 3 - specific weakness in psychological triggers]
+• [Problem 4 - specific failure to address pain layers]
+• [Problem 5 - specific competitive differentiation failure]
 
-**Using the SPECIFIC pain layers extracted above, create a Value Equation-optimized positioning that:**
+**New/Revised Value Proposition Using Value Equation Framework**
 
-- **Dream Outcome Maximization**: [Specific identity transformation and status elevation for their exact logistics challenges, using their language from transcript]
-- **Perceived Likelihood Amplification**: [Social proof, guarantees, track record addressing their specific risk concerns from transcript]
-- **Time Delay Minimization**: [Immediate value delivery mechanisms targeting their specific urgency drivers from transcript]
-- **Effort & Sacrifice Reduction**: [Complete friction elimination addressing their exact frustration points from transcript]
-- **Mathematical Value Creation**: [Show how formula creates exponential value vs. competitors using their specific context]
-- **Bottom-Heavy Strategy Focus**: [Prioritize time delay and effort reduction over promises, based on their transcript]
+**Comprehensive Value Proposition**
+[Single powerful paragraph that integrates all 4 Value Equation components - Dream Outcome + Perceived Likelihood in first half, followed by Time Delay + Effort reduction, including their technical solution]
 
-**5 Key Messages Using Complete Psychological Value Triggers:**
+**Value Equation Component Integration**
+• **Dream Outcome Maximization**: [Specific identity transformation from their current frustrating state to elevated status]
+• **Perceived Likelihood Amplification**: [Social proof and credibility elements addressing their specific validation needs]  
+• **Time Delay Minimization**: [Specific timeline improvements vs their current slow approach]
+• **Effort & Sacrifice Reduction**: [Specific friction elimination for their exact barriers]
+
+**5 Key Messages Using Psychological Value Triggers**
 
 **Message 1 - Dream Outcome + Status Elevation:**
-[Complete message using their specific current frustrating state and desired status position from transcript, including technical solution that enables transformation]
+[Complete one-sentence message using their specific current state → desired transformation → technical solution → recognition outcome]
 
 **Message 2 - Likelihood + Social Proof Authority:**
-[Complete message with logistics industry social proof addressing their specific validation needs from transcript, including risk reversal for their concerns]
+[Complete one-sentence message with social proof + credibility elements addressing their specific proof needs + risk reversal]
 
 **Message 3 - Time Delay Elimination + Quick Wins:**
-[Complete message emphasizing immediate results vs. their current delays mentioned in transcript, using their specific timeline pressures]
+[Complete one-sentence message emphasizing speed vs their current delays + competitive timing advantage]
 
 **Message 4 - Effort Reduction + Friction Elimination:**
-[Complete message removing their specific implementation barriers and frustrations mentioned in transcript]
+[Complete one-sentence message removing their specific implementation barriers + done-for-you positioning]
 
 **Message 5 - Risk Mitigation + Career Protection:**
-[Complete message addressing their specific career fears and advancement protection from Layer 3 analysis of transcript]
+[Complete one-sentence message addressing their Layer 3 career fears + advancement protection]
 
-**Value Gap Strategy:**
-- Perceived value calculation for each message using their specific context
-- Price vs. value positioning for logistics market
-- "Make it worth $600, charge $50" approach using their deal sizes and ROI requirements
+## QUALITY REQUIREMENTS
 
-**Strategic Implementation Priority:**
-- Which message leads (based on bottom-heavy strategy and their transcript insights)
-- Layer 2 and Layer 3 pain integration across touchpoints using their specific concerns
-- Premium positioning through complete problem solving for their exact challenges
-
-**Why This Value Proposition Creates Exponential Results:**
-- Mathematical explanation of Value Equation improvement
-- Competitive differentiation through Layer 2+3 pain addressing
-- Revenue impact projections based on their goals and deal sizes
+- Each message must be exactly ONE powerful sentence
+- Use their specific language and challenges from transcript
+- Include their technical solution in appropriate messages
+- Address their specific Layer 2 and Layer 3 pains
+- Create clear before/after transformation narrative
+- Ensure mathematical Value Equation optimization
+- Focus on bottom-heavy strategy (time delay + effort reduction priority)
