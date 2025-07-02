@@ -105,18 +105,30 @@ NEVER lead with the company name. Always start with the customer transformation 
 **Document Title:** [BUSINESS NAME] - Your Answer to "Why Choose Us?"
 
 **Current Positioning Assessment**
-[Their actual current positioning. If unclear, state honestly]
+[Their actual current positioning in one sentence. If unclear, state honestly]
 
 **Why This Isn't Working**
-[Exactly 5 crisp bullet points - interpret their problems, don't copy]
-• **Dream Outcome Gap**: [What transformation they're failing to promise]
-• **Credibility Gap**: [What proof they're missing]
-• **Speed Gap**: [How they're slower than needed]
-• **Effort Gap**: [What friction they're not removing]
-• **Differentiation Gap**: [Why they sound like everyone else]
+[Exactly 5 detailed bullet points - interpret and expand on their problems with 2-3 sentences each]
+• **Dream Outcome Gap**: [What transformation they're failing to promise. Explain specifically how this limits their appeal and what opportunity they're missing. Include what their prospects actually want versus what's being offered.]
+• **Credibility Gap**: [What proof they're missing. Detail the specific credibility elements their prospects need to see and why their current approach falls short. Include industry context.]
+• **Speed Gap**: [How they're slower than needed. Explain the urgency their prospects face and how current positioning fails to address time pressure. Include competitive context.]
+• **Effort Gap**: [What friction they're not removing. Detail the implementation fears and effort concerns their prospects have that aren't being addressed. Include why this matters.]
+• **Differentiation Gap**: [Why they sound like everyone else. Explain specifically how their positioning blends in with competitors and what unique advantage they're failing to communicate.]
 
 **Your Optimized "Why Choose Us?" Answer**
-[ONE SENTENCE, 35-40 words maximum. Must feel natural and conversational while being mathematically optimized. Should start with customer transformation, not company name. Use numbers strategically, not mechanically.]
+[ONE SENTENCE, 35-40 words maximum. Must feel natural and conversational while being mathematically optimized. Should start with customer transformation, not company name. Use numbers strategically, not mechanically. Include multiple layers of value - problem solved, transformation achieved, unique approach, and key benefits.]
+
+**Alternative Value Propositions (For Agency Refinement)**
+*Note: These longer variations provide additional angles and elements to draw from when crafting the final client deliverable.*
+
+**Option 1 - Transformation-Heavy (50-70 words):**
+[A version that emphasizes the status elevation and career transformation more heavily, with richer detail about the journey from current state to dream outcome. Include specific recognition and advancement elements.]
+
+**Option 2 - Proof-Heavy (50-70 words):**
+[A version that leads with credibility and certainty, incorporating specific proof points, guarantees, or track record elements. Emphasize the "why it will work for them" angle.]
+
+**Option 3 - Speed & Ease-Heavy (50-70 words):**
+[A version that maximizes the denominator reduction, emphasizing how fast and effortless the transformation is compared to alternatives. Include specific contrasts with competitor timelines or effort requirements.]
 
 **Value Equation Breakdown**
 • **Dream Outcome**: [How we maximized it in 10 words]
@@ -144,7 +156,7 @@ Transform their input into 5 distinct, punchy messages:
 
 ## OPTIMIZATION CHECKLIST
 Before finalizing:
-- □ Is the value proposition 35-40 words or less?
+- □ Is the main value proposition 35-40 words or less?
 - □ Does it answer "Why choose you?" definitively?
 - □ Is it 10x more compelling than their current positioning?
 - □ Does it maximize dream outcome and likelihood?
@@ -154,6 +166,8 @@ Before finalizing:
 - □ Does it feel natural and conversational, not formulaic?
 - □ Are numbers used strategically for impact, not mechanically?
 - □ Does it start with customer transformation, not company name?
+- □ Do the alternative versions provide rich variations to draw from?
+- □ Does the main value prop have multiple layers of depth?
 
 ## SUCCESS CRITERIA
-The final value proposition must be the most compelling, mathematically optimized version possible - transforming their input into a sharp, powerful answer to 'Why choose you instead of competitors?' that immediately eliminates objections and creates differentiation. It should feel like natural, confident language that happens to be perfectly persuasive, not like someone applied a formula.
+The final value proposition must be the most compelling, mathematically optimized version possible - transforming their input into a sharp, powerful answer to 'Why choose you instead of competitors?' that immediately eliminates objections and creates differentiation. It should feel like natural, confident language that happens to be perfectly persuasive, not like someone applied a formula. The alternative versions should provide the agency with rich material to refine and perfect the final client deliverable.
