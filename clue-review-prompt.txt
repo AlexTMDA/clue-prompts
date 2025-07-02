@@ -26,6 +26,12 @@ The goal: Create a value proposition that combines their unique insights WITH be
 - If their terminology is powerful, use it; if it's weak, improve it
 - Create the mathematically optimal value proposition using Value Equation principles
 
+## NATURAL LANGUAGE REQUIREMENT
+Create a value proposition that feels natural and conversational, where the Value Equation optimization is INVISIBLE. The mathematical framework should guide the creation but not be obvious in the final result. Avoid formulaic language that sounds like you're checking boxes. The prospect should think "That's exactly what I need!" not "They're using a framework on me."
+
+## STRATEGIC NUMBER USAGE
+Use specific numbers ONLY when they create maximum psychological impact. One powerful metric beats three cluttered statistics. Choose the number that best demonstrates the transformation - whether it's timeframe, improvement percentage, or scale - but don't include numbers just because they exist in the transcript. Sometimes "months to minutes" is more powerful than "reduced by 82.7%". Never stuff multiple metrics into one sentence just to include them.
+
 ## Client Profile Context
 - **Target Industry**: Logistics technology, supply chain software, warehouse management systems, fleet management tech, logistics platforms
 - **Company Size**: 20-200 employees, £2M-£50M revenue
@@ -43,16 +49,16 @@ The goal: Create a value proposition that combines their unique insights WITH be
 ### The Four Components
 
 #### Dream Outcome (Numerator - Goal: Maximize)
-Transform their desired outcome into STATUS ELEVATION - being seen as powerful, respected, innovative. Sell the vacation, not the plane ticket.
+Transform their desired outcome into STATUS ELEVATION - being seen as powerful, respected, innovative. Sell the vacation, not the plane ticket. Include the technical solution/vehicle NATURALLY as part of the transformation story.
 
 #### Perceived Likelihood (Numerator - Goal: Maximize)
-People pay for certainty. Amplify their confidence through proof, guarantees, and track record evidence.
+People pay for certainty. Amplify their confidence through proof, guarantees, and track record evidence - but only include what strengthens the core message.
 
 #### Time Delay (Denominator - Goal: Minimize to Zero)
-Eliminate the gap between purchase and results. Create immediate wins vs. competitor delays.
+Eliminate the gap between purchase and results. Create immediate wins vs. competitor delays - but express this naturally, not mechanically.
 
 #### Effort & Sacrifice (Denominator - Goal: Minimize to Zero)
-Remove all friction, complexity, and sacrifice. Make it effortless.
+Remove all friction, complexity, and sacrifice. Make it effortless - without making it sound like a checklist.
 
 ## VALUE EQUATION OPTIMIZATION PROCESS
 When creating the value proposition:
@@ -61,6 +67,7 @@ When creating the value proposition:
 3. Find their timeline frustrations and ELIMINATE delays (minimize denominator)
 4. Locate their effort barriers and REMOVE friction (minimize denominator)
 5. MATHEMATICALLY OPTIMIZE: Maximum numerator ÷ Minimum denominator = Maximum Value
+6. THEN MAKE IT NATURAL: Rewrite so the optimization is invisible
 
 ## 3-Layer Pain Point Framework
 
@@ -68,7 +75,7 @@ When creating the value proposition:
 ### Layer 2 - Emotional Pains (Stress, reputation, support)
 ### Layer 3 - Hidden Pains (Career fears, job security)
 
-**Integration Rule**: Address all 3 layers EFFICIENTLY within the word limit, not by adding more words.
+**Integration Rule**: Address all 3 layers EFFICIENTLY within the word limit, not by adding more words. Layer 3 should be woven in subtly, not stated obviously.
 
 ## VALUE PROPOSITION LENGTH REQUIREMENT
 The final "Comprehensive Value Proposition" MUST be:
@@ -77,6 +84,10 @@ The final "Comprehensive Value Proposition" MUST be:
 - Mathematically optimized through Value Equation
 - Addresses all 3 pain layers efficiently
 - Answers "Why choose you instead of competitors?"
+- Feels natural and conversational, not formulaic
+
+## CUSTOMER-FIRST FRAMING
+NEVER lead with the company name. Always start with the customer transformation or benefit. The company/solution should appear naturally later in the sentence if needed. Focus on "You/Your" language over "We/Our" where possible.
 
 ## ANALYSIS PROCESS
 
@@ -87,13 +98,14 @@ The final "Comprehensive Value Proposition" MUST be:
 4. Locate their urgency/timeline pressure
 5. Spot their main effort/complexity barrier
 6. Uncover their hidden career fear
+7. Determine which ONE element creates maximum impact
 
 ## MANDATORY OUTPUT STRUCTURE
 
 **Document Title:** [BUSINESS NAME] - Your Answer to "Why Choose Us?"
 
 **Current Positioning Assessment**
-[Their actual current positioning in one sentence. If unclear, state honestly]
+[Their actual current positioning. If unclear, state honestly]
 
 **Why This Isn't Working**
 [Exactly 5 crisp bullet points - interpret their problems, don't copy]
@@ -104,7 +116,7 @@ The final "Comprehensive Value Proposition" MUST be:
 • **Differentiation Gap**: [Why they sound like everyone else]
 
 **Your Optimized "Why Choose Us?" Answer**
-[ONE SENTENCE, 35-40 words maximum. Mathematically optimized using Value Equation. Sharp, compelling, addressing all 3 pain layers]
+[ONE SENTENCE, 35-40 words maximum. Must feel natural and conversational while being mathematically optimized. Should start with customer transformation, not company name. Use numbers strategically, not mechanically.]
 
 **Value Equation Breakdown**
 • **Dream Outcome**: [How we maximized it in 10 words]
@@ -139,6 +151,9 @@ Before finalizing:
 - □ Does it minimize time delay and effort to near zero?
 - □ Does it address career/personal stakes (Layer 3)?
 - □ Would it make prospects say "How do we start?" instead of "Let me think about it"?
+- □ Does it feel natural and conversational, not formulaic?
+- □ Are numbers used strategically for impact, not mechanically?
+- □ Does it start with customer transformation, not company name?
 
 ## SUCCESS CRITERIA
-The final value proposition must be the most compelling, mathematically optimized version possible - transforming their input into a sharp, powerful answer to 'Why choose you instead of competitors?' that immediately eliminates objections and creates differentiation.
+The final value proposition must be the most compelling, mathematically optimized version possible - transforming their input into a sharp, powerful answer to 'Why choose you instead of competitors?' that immediately eliminates objections and creates differentiation. It should feel like natural, confident language that happens to be perfectly persuasive, not like someone applied a formula.
