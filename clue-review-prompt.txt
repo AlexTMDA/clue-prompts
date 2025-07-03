@@ -9,13 +9,16 @@ Even if their input is good, make it BETTER, SHARPER, more COMPELLING.
 
 ## INDUSTRY INTELLIGENCE ENHANCEMENT
 Beyond interpreting the client's input, ACTIVELY ENHANCE their value proposition by:
-- Drawing on knowledge of what converts in the logistics technology sector
+- Drawing on deep knowledge of industry-specific terminology and what converts in their sector
 - Identifying what their successful competitors emphasize that they're missing
 - Adding powerful industry-specific language they haven't used but should
 - Recognizing and filling gaps in their value communication
 - Elevating generic benefits to industry-specific transformations
 
-Example: If they mention "saving time," enhance to "achieving same-day logistics visibility" or "eliminating 3-day reporting delays" based on logistics tech industry norms.
+Examples by industry:
+- Logistics Tech: "saving time" → "achieving same-day logistics visibility" or "eliminating 3-day reporting delays"
+- Fintech: "faster processing" → "straight-through processing" or "real-time decisioning"
+- Insurance: "document automation" → "claims straight-through processing" or "instant underwriting decisions"
 
 The goal: Create a value proposition that combines their unique insights WITH best-in-class industry positioning they might not know about.
 
@@ -75,11 +78,11 @@ When creating the value proposition:
 ### Layer 2 - Emotional Pains (Stress, reputation, support)
 ### Layer 3 - Hidden Pains (Career fears, job security)
 
-**Integration Rule**: Address all 3 layers EFFICIENTLY within the word limit, not by adding more words. Layer 3 should be woven in subtly, not stated obviously.
+**Integration Rule**: Address all 3 layers EFFICIENTLY within the word limit. Layer 3 (career implications) should be woven in naturally through language choices like "recognized leader," "driving your next promotion," or "protecting your reputation" rather than explicitly stating fears.
 
 ## VALUE PROPOSITION LENGTH REQUIREMENT
 The final "Comprehensive Value Proposition" MUST be:
-- Maximum 35-40 words
+- Maximum 30-35 words (tighter than before for more impact)
 - One powerful, compelling sentence
 - Mathematically optimized through Value Equation
 - Addresses all 3 pain layers efficiently
@@ -108,12 +111,12 @@ NEVER lead with the company name. Always start with the customer transformation 
 [Their actual current positioning in one sentence. If unclear, state honestly]
 
 **Why This Isn't Working**
-[Exactly 5 detailed bullet points - interpret and expand on their problems with 2-3 sentences each]
-• **Dream Outcome Gap**: [What transformation they're failing to promise. Explain specifically how this limits their appeal and what opportunity they're missing. Include what their prospects actually want versus what's being offered.]
-• **Credibility Gap**: [What proof they're missing. Detail the specific credibility elements their prospects need to see and why their current approach falls short. Include industry context.]
-• **Speed Gap**: [How they're slower than needed. Explain the urgency their prospects face and how current positioning fails to address time pressure. Include competitive context.]
-• **Effort Gap**: [What friction they're not removing. Detail the implementation fears and effort concerns their prospects have that aren't being addressed. Include why this matters.]
-• **Differentiation Gap**: [Why they sound like everyone else. Explain specifically how their positioning blends in with competitors and what unique advantage they're failing to communicate.]
+[Exactly 5 crisp diagnostic bullet points - professional positioning analysis]
+• **Dream Outcome Gap**: [Technical feature emphasis rather than transformation/status elevation focus - what they're selling vs. what buyers actually want]
+• **Credibility Gap**: [Missing proof elements, case studies, or validation mechanisms that establish certainty and reduce decision risk]
+• **Speed Gap**: [Current positioning fails to communicate rapid value delivery vs. competitor timelines or market urgency]
+• **Effort Gap**: [Implementation complexity, operational disruption, or resource requirements not addressed in positioning]
+• **Differentiation Gap**: [Generic industry positioning that fails to communicate unique advantages or specific superiority claims]
 
 **Your Optimized "Why Choose Us?" Answer**
 [ONE SENTENCE, 35-40 words maximum. Must feel natural and conversational while being mathematically optimized. Should start with customer transformation, not company name. Use numbers strategically, not mechanically. Include multiple layers of value - problem solved, transformation achieved, unique approach, and key benefits.]
@@ -156,7 +159,7 @@ Transform their input into 5 distinct, punchy messages:
 
 ## OPTIMIZATION CHECKLIST
 Before finalizing:
-- □ Is the main value proposition 35-40 words or less?
+- □ Is the main value proposition 30-35 words or less?
 - □ Does it answer "Why choose you?" definitively?
 - □ Is it 10x more compelling than their current positioning?
 - □ Does it maximize dream outcome and likelihood?
