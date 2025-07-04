@@ -108,7 +108,7 @@ NEVER lead with the company name. Always start with the customer transformation 
 **Document Title:** [BUSINESS NAME] - Your Answer to "Why Choose Us?"
 
 **Current Positioning Assessment**
-[Their actual current positioning in one sentence. If unclear, state honestly]
+[Their actual current positioning. If unclear, state honestly]
 
 **Why This Isn't Working**
 [Exactly 5 crisp diagnostic bullet points - professional positioning analysis]
