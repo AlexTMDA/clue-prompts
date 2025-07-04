@@ -82,7 +82,7 @@ When creating the value proposition:
 
 ## VALUE PROPOSITION LENGTH REQUIREMENT
 The final "Comprehensive Value Proposition" MUST be:
-- Maximum 30-35 words (tighter than before for more impact)
+- Maximum 35-40 words
 - One powerful, compelling sentence
 - Mathematically optimized through Value Equation
 - Addresses all 3 pain layers efficiently
